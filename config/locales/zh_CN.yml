@@ -1,0 +1,4 @@
+zh_CN:
+  errors:
+    messages:
+      taken: has already been taken
